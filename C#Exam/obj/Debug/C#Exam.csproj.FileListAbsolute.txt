@@ -1,0 +1,9 @@
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\bin\Debug\C#Exam.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\obj\Debug\C#Exam.csproj.AssemblyReference.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\obj\Debug\C#Exam.csproj.SuggestedBindingRedirects.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\obj\Debug\C#Exam.csproj.CoreCompileInputs.cache
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\bin\Debug\CsExam.exe.config
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\bin\Debug\CsExam.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\bin\Debug\CsExam.pdb
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\obj\Debug\CsExam.exe
+C:\Users\sangt\OneDrive\Máy tính\learn\C#\Exam\C#Exam\C#Exam\obj\Debug\CsExam.pdb
